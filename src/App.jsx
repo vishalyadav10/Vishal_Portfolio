@@ -1,6 +1,6 @@
 import React from 'react'
 import { BrowserRouter as Router, Route,Routes, Link } from 'react-router-dom';
-import './app.css';
+import './App.css';
 import Header from './components/Header/Header'
 import Footer from './components/Footer/Footer'
 import About from './components/About/About';
