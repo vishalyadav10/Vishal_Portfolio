@@ -3,6 +3,7 @@
 .header {
     background-color: #f0f0f0; /* Background color */
     padding: 30px; /* Padding around the content */
+    overflow-x: hidden;
   }
   
   .navbar {

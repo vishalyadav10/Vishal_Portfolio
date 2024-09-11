@@ -11,7 +11,7 @@ import ContactPage from './components/Contact/ContactPage';
 
 function App() {
   return (
-    <>
+    <div className='container'>
       <Header />
       <main>
         <HomePage />
@@ -21,7 +21,7 @@ function App() {
         <ContactPage />
       </main>
       <Footer />
-    </>
+    </div>
   )
 }
 
