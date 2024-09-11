@@ -1,0 +1,43 @@
+/* Header.css */
+
+.header {
+    background-color: #f0f0f0; /* Background color */
+    padding: 30px; /* Padding around the content */
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between; /* Space between brand and links */
+    align-items: center; /* Center items vertically */
+  }
+  
+  .brand {
+    font-size: 29px; /* Font size for the brand */
+    font-weight: bold; /* Bold text */
+    text-decoration: none; /* Remove underline */
+    color: #333; /* Text color */
+  }
+  
+  .nav-links {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+    display: flex; /* Align items horizontally */
+    gap: 20px; /* Space between items */
+  }
+  
+  .nav-links li {
+    margin: 0;
+  }
+  
+  .nav-links a {
+    text-decoration: none; /* Remove underline */
+    color: #333; /* Text color */
+    font-size: 20px; /* Font size */
+    transition: color 0.3s ease; /* Smooth color transition on hover */
+  }
+  
+  .nav-links a:hover {
+    color: #007bff; /* Change color on hover */
+  }
+  
