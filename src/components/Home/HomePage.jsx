@@ -1,5 +1,5 @@
 import React from 'react';
-import './HomePage.css'; // Import your CSS file for styling
+import './Homepage.css'; // Import your CSS file for styling
 import resume from '../../assets/Vishal_Cv_v1.pdf';
 import { Player } from '@lottiefiles/react-lottie-player';
 import animationData from '../../assets/Animation - 1725474782865.json';
