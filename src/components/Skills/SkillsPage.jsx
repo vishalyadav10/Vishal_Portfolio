@@ -14,7 +14,7 @@ function SkillsPage() {
             <p>Strong understanding of: FIX protocol.</p>
           </li>
           <li className="skills-item">
-            <p> Experience with: Order Management Systems (OMS) and their role in trade execution and management.</p>
+            <p> Experience with: Order Routing Systems (ORS) and their role in trade execution and management.</p>
           </li>
           <li className="skills-item">
             <p> Exposure in: Troubleshooting and incident management within time-sensitive trading environments.</p>
